@@ -13,6 +13,7 @@ The objects are:
 
 ## Players
 
+- [ ] GET /players
 - [ ] GET /players/:id
 - [ ] POST /players (registration)
 - [ ] GET /players/me
@@ -35,3 +36,4 @@ The objects are:
 - [ ] GET /games/:id
 - [ ] GET /games
 - [ ] POST /games/:id/moves
+- [ ] POST /games/:id/resign
